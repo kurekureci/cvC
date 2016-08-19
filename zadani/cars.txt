@@ -1,5 +1,0 @@
-Ford	Audi	Opel
-BMW	Skoda	Mercedes
-Seat	Kia	Honda
-Mazda	Volvo	Jaguar
-Subaru	Jeep	Citroen
